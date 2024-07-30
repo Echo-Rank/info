@@ -14,3 +14,7 @@ Echo is built using Typescript, React Native, Expo, Express, Zustand, and Supaba
 <img src="./media/3.png" width="200">
 
 <img src="./media/4.png" width="200">
+
+<img src="./media/5.png" width="200">
+
+<img src="./media/6.png" width="200">
